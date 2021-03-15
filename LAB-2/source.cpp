@@ -14,7 +14,7 @@ void Search(string cgpa)
     file.open("data.txt");
     while(!file.eof())
     {
-
+        
     }
 
 }
